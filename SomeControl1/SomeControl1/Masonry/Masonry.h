@@ -1,7 +1,7 @@
 //
 //  Masonry.h
 //  Masonry
-//
+//  此处的版本过低，可自行pod update
 //  Created by Jonas Budelmann on 20/07/13.
 //  Copyright (c) 2013 cloudling. All rights reserved.
 //
